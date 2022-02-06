@@ -2,6 +2,12 @@
 
 Exam of computational intelligence 2021 - 2022. It requires teaching the client to play the game of Hanabi (rules can be found [here](https://www.spillehulen.dk/media/102616/hanabi-card-game-rules.pdf)).
 
+Team:
+  - Lorenzo Cravero s290265
+  - Guido Genco s285703
+  - Lorenzo Lu s290172
+  - Riccardo Sepe s287760
+
 ## Server
 
 The server accepts passing objects provided in GameData.py back and forth to the clients.
